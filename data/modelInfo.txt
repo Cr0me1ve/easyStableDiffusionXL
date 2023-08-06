@@ -1,0 +1,3 @@
+Model name from huggingface.co
+name=stable-diffusion-xl-base-1.0
+variant=fp16
