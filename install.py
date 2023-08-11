@@ -1,10 +1,10 @@
-import torch
 from diffusers import DiffusionPipeline
 import os
-import shutil
 
 try:
     os.makedirs(".cache")
+    os.makedirs(".temp")
+    os.makedirs("models/SD")
 except:
     pass
 
