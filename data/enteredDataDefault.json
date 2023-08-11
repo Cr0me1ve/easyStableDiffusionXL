@@ -1,6 +1,6 @@
 {
     "prompt": "",
-    "negPrompt": "cartoon, black and white photo, disfigured, kitsch, ugly, oversaturated, grain, low-res, Deformed, blurry, bad anatomy, poorly drawn face, mutation, mutated, extra limb, poorly drawn hands, missing limb, blurry, floating limbs, disconnected limbs, malformed hands, blur, out of focus, long neck, long body, disgusting, poorly drawn, childish, mutilated, mangled, old, surreal",
+    "negPrompt": "",
     "width": 1280,
     "height": 720,
     "samples": 50,
