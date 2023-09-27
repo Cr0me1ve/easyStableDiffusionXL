@@ -1,2 +1,1 @@
-call .\venv\Scripts\activate.bat
-python FletMain.py
+.\venv\Scripts\python.exe .\FletMain.py
